@@ -22,7 +22,7 @@ Open your browser and go to http://localhost:8082. You will now see the movies f
 To run the containers you had to execute 3 commands. It would be easier if we only had to execute one command. We can achieve this by using Docker Compose.
 
 ### Creating a compose.yml
-Create a `compose.yml` file to run the webapp and the database. Information on how to create such a file can be found here:
+Create a `compose.yml` file to run the webapp and the database.
 
 Once your created the `compose.yml` file, run:
 ```
